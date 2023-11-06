@@ -47,7 +47,7 @@ Todo esse ecossistema foi planejado e desenvolvido por uma equipe de desenvolved
 
 </div>
 
-### **_Material de Apoio_** 📝
+<!-- ### **_Material de Apoio_** 📝
 
 <details>
       <summary>
@@ -78,7 +78,7 @@ Todo esse ecossistema foi planejado e desenvolvido por uma equipe de desenvolved
       <summary>
             <em><strong>MÓDULO 6 - Rotinas</strong></em>
       </summary>
-</details>
+</details> -->
 
 ### **_Lista de Exercícios_** 💡
 
